@@ -1,0 +1,1 @@
+This game was made at the 2019 Hack Ohi/o marathon, where Landen Master and Robert Wetzler, along with others, worked for 24 hours on a project.
